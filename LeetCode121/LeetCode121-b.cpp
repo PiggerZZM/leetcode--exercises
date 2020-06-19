@@ -1,3 +1,9 @@
+/*
+author: PiggerZZM
+date: 2020-6-19
+language: cpp
+*/
+
 class SolutionB {
 public:
     int maxProfit(vector<int>& prices) {
