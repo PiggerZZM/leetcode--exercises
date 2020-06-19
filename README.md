@@ -1,3 +1,3 @@
 # leetcode-exercises
 
-> 开刷力扣，欢迎fork添加题解
+组队开刷LeetCode，欢迎加入
