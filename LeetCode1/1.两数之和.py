@@ -1,6 +1,6 @@
-#
+# @author: PiggerZZM
 # @lc app=leetcode.cn id=1 lang=python3
-#
+# @date: 2020-6-22
 # [1] 两数之和
 #
 
