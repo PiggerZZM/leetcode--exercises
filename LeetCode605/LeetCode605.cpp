@@ -17,7 +17,7 @@ public:
             {
                 int left = i - 1;
                 int right = i + 1;
-                if (( (left >= 0 && flowerbed[left] == 0) || left == -1) && ( (right <= flowerbed.size() - 1 && flowerbed[right] == 0) || right == flowerbed.size()))
+                if (((left >= 0 && flowerbed[left] == 0) || left == -1) && ((right <= flowerbed.size() - 1 && flowerbed[right] == 0) || right == flowerbed.size()))
                 {
                     count++;
                     flowerbed[i] = 1;
