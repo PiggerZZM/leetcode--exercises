@@ -15,7 +15,7 @@ class Solution:
             if target - value in hash_map and hash_map[target - value] != index:
                 result.append(index)
                 result.append(hash_map[target - value])
-                break
+                return result
 
-        return result
+        
 # @lc code=end
