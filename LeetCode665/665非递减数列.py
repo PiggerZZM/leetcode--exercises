@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 '''
 =================================================
-@Project -> File   ：LeetCode -> 665非递减数列
+@Project -> File   ：LeetCode191 -> 665非递减数列
 @IDE    ：CLion
 @Author ：Mr. An
 @Date   ：2019/10/1 18:36
