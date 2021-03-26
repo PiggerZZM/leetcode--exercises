@@ -14,7 +14,6 @@ var find132pattern = function(nums) {
                 return true
             }
         }
-
     }
     return false
 };
